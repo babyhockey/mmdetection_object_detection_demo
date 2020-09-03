@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Tabular</folder>
+	<filename>12-Diray Tab 3-0.jpg</filename>
+	<path>C:\Document Vision\data\Tabular\12-Diray Tab 3-0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2200</width>
+		<height>1700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>261</ymin>
+			<xmax>2030</xmax>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>957</ymin>
+			<xmax>2170</xmax>
+			<ymax>1158</ymax>
+		</bndbox>
+	</object>
+</annotation>

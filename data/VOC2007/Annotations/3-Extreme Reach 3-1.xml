@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tabular</folder>
+	<filename>3-Extreme Reach 3-1.jpg</filename>
+	<path>C:\Document Vision\data\Tabular\3-Extreme Reach 3-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1700</width>
+		<height>2200</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>158</ymin>
+			<xmax>871</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

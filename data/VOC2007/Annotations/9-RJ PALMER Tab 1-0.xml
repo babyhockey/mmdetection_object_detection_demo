@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tabular</folder>
+	<filename>9-RJ PALMER Tab 1-0.jpg</filename>
+	<path>C:\Document Vision\data\Tabular\9-RJ PALMER Tab 1-0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2200</width>
+		<height>1700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>629</ymin>
+			<xmax>1642</xmax>
+			<ymax>1094</ymax>
+		</bndbox>
+	</object>
+</annotation>
